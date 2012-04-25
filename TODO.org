@@ -3,7 +3,7 @@
 * TODO bocetos
 ** DONE boceto página 1
 ** DONE boceto página 2
-** TODO boceto página 3
+** DONE boceto página 3
 ** TODO boceto página 4
 ** TODO boceto página 5
 ** TODO boceto página 6
