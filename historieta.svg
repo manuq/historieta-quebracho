@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="historieta.svg"
-   inkscape:export-filename="/home/manuq/quebracho/historieta/historieta.png"
+   inkscape:export-filename="/home/manuq/quebracho/historieta/historieta-03.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2604593"
-     inkscape:cx="552.2418"
-     inkscape:cy="750.36142"
+     inkscape:zoom="0.1657904"
+     inkscape:cx="476.1829"
+     inkscape:cy="597.28455"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -187,7 +187,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="02"
-     style="display:inline">
+     style="display:none">
     <image
        y="-9.9728861"
        x="-74.896767"
@@ -195,7 +195,111 @@
        xlink:href="file:///home/manuq/quebracho/historieta/quebracho-02.png"
        height="1792"
        width="1216" />
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       x="113.48468"
+       y="87.641769"
+       id="text3184"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3186"
+         x="113.48468"
+         y="87.641769" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3188"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(-14.643184,20.134378)"><flowRegion
+         id="flowRegion3190"><rect
+           id="rect3192"
+           width="528.98505"
+           height="239.78214"
+           x="42.099155"
+           y="83.980972"
+           style="font-weight:normal;-inkscape-font-specification:Rancho" /></flowRegion><flowPara
+         id="flowPara3194">El monte también era el hogar y fuente de alimento de pueblos que vivían allí pacíficamente desde mucho tiempo antes que nuestros abuelos: el pueblo Guaycurú, el pueblo <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Rancho Bold"
+   id="flowSpan3206">Chaná</flowSpan> y el pueblo <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Rancho Bold"
+   id="flowSpan3208">Guaraní</flowSpan>.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3196"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(0,76)"><flowRegion
+         id="flowRegion3198"><rect
+           id="rect3200"
+           width="267.38828"
+           height="424.66278"
+           x="25.625572"
+           y="988.19763" /></flowRegion><flowPara
+         id="flowPara3202">Hacen artesanías, herramientas, ropas, tejiendo fibras de plantas, con maderas y cerámica, ornamentándolas con plumas, semillas y dibujos.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3210"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(4.751237,27.646039)"><flowRegion
+         id="flowRegion3212"><rect
+           id="rect3214"
+           width="605.93549"
+           height="146.59814"
+           x="387.15048"
+           y="1502.7097"
+           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara3216">Estos guardianes del monte conocen su sabiduría y no usan más de lo necesario para alimentarse y vivir. Utilizan las plantas para curarse.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3218"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"><flowRegion
+         id="flowRegion3220"><rect
+           id="rect3222"
+           width="147.44554"
+           height="76.794556"
+           x="-30.717821"
+           y="1334.1324" /></flowRegion><flowPara
+         id="flowPara3224" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="03"
+     style="display:inline">
+    <image
+       y="-15.384991"
+       x="-128.77885"
+       id="image3191"
+       xlink:href="file:///home/manuq/quebracho/historieta/quebracho-03.png"
+       height="1856"
+       width="1280" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3194"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(-27.316056,50.797977)"><flowRegion
+         id="flowRegion3196"><rect
+           id="rect3198"
+           width="633.63794"
+           height="462.52896"
+           x="376.97446"
+           y="57.329987"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Rancho;-inkscape-font-specification:Rancho" /></flowRegion><flowPara
+         id="flowPara3200">en 1872, el gobierno de Santa Fe entregó estas tierras a distintas empresas con el objetivo de que sean &quot;civilizadas&quot;. Para esto, desplazaron a la fuerza a los pueblos originarios, quitándole lo que era su fuente de alimento, vivienda y tradición.</flowPara></flowRoot>    <rect
+       style="opacity:0.7;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3210"
+       width="686.67542"
+       height="138.61504"
+       x="136.48207"
+       y="1360.7406" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3202"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(-20.947687,38.218977)"><flowRegion
+         id="flowRegion3204"><rect
+           id="rect3206"
+           width="679.98901"
+           height="143.85709"
+           x="159.55118"
+           y="1327.6752"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Rancho;-inkscape-font-specification:Rancho" /></flowRegion><flowPara
+         id="flowPara3208">Algunos pueblos pudieron seguir viviendo cerca del monte, pero otros nativos fueron sometidos a través de la esclavitud o tuvieron que ir a trabajar a las ciudades.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
