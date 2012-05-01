@@ -1,5 +1,7 @@
 * DONE template
 * DONE organización
+* DONE planteo svg
+* DONE tipografia
 * TODO bocetos
 ** DONE boceto página 1
 ** DONE boceto página 2
@@ -10,16 +12,16 @@
 ** TODO boceto página 7
 ** TODO boceto página 8
 * TODO líneas
-** TODO líneas página 1
-** TODO líneas página 2
-** TODO líneas página 3
+** DONE líneas página 1
+** DONE líneas página 2
+** DONE líneas página 3
 ** TODO líneas página 4
 ** TODO líneas página 5
 ** TODO líneas página 6
 ** TODO líneas página 7
 ** TODO líneas página 8
 * TODO texto
-** TODO texto página 1
+** DONE texto página 1
 ** TODO texto página 2
 ** TODO texto página 3
 ** TODO texto página 4
