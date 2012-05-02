@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="historieta.svg"
-   inkscape:export-filename="/home/manuq/quebracho/historieta/historieta-05.png"
+   inkscape:export-filename="/home/manuq/quebracho/historieta/historieta-07.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22555472"
-     inkscape:cx="430.13243"
-     inkscape:cy="763.27098"
+     inkscape:zoom="0.20896539"
+     inkscape:cx="583.06491"
+     inkscape:cy="624.81823"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -38,7 +38,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1024"
+     inkscape:window-width="800"
      inkscape:window-height="542"
      inkscape:window-x="0"
      inkscape:window-y="26"
@@ -489,12 +489,12 @@
      inkscape:label="07"
      style="display:none">
     <image
-       y="-8.6732035"
-       x="-137.32594"
-       id="image3823"
+       y="-16.922709"
+       x="-64.054497"
+       id="image4221"
        xlink:href="file:///home/manuq/quebracho/historieta/quebracho-07.png"
-       height="1792"
-       width="1344" />
+       height="1856"
+       width="1216" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3826"
@@ -528,11 +528,11 @@
      inkscape:label="08"
      style="display:inline">
     <image
-       y="-8.9095516"
-       x="-81.52021"
-       id="image3989"
+       y="-59.17215"
+       x="-81.597023"
+       id="image4329"
        xlink:href="file:///home/manuq/quebracho/historieta/quebracho-08.png"
-       height="1792"
+       height="1856"
        width="1216" />
     <flowRoot
        xml:space="preserve"
@@ -547,16 +547,30 @@
          id="flowPara3998">En 1920, comenzaron las huelgas obreras por mejores condiciones de trabajo y salariales. Fueron violentamente reprimidas por la policía.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4000"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
-       transform="translate(-21.944775,25.079743)"><flowRegion
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(50.25369,-1002.9186)"><flowRegion
          id="flowRegion4002"><rect
            id="rect4004"
            width="815.09161"
            height="279.01215"
            x="115.99381"
            y="1421.5032"
+           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara4006">En 1966, cuando ya no quedaban quebrachos para talar, la Forestal abandonó el país, dejando los pueblos sin fuente de trabajo ni servicios básicos (ferrocarril, agua, luz eléctrica, hospital, proveeduría), el monte completamente deforestado y una tierra totalmente infértil, desplazando una vez más a los habitantes.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4224"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Rancho;-inkscape-font-specification:Rancho"
+       transform="translate(0,0.328748)"><flowRegion
+         id="flowRegion4226"><rect
+           id="rect4228"
+           width="836.50635"
+           height="270.75327"
+           x="84.862961"
+           y="1425.8563"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4006">En 1966, cuando ya no quedaban quebrachos para talar, la Forestal abandonó el país, dejando los pueblos sin fuente de trabajo ni servicios básicos (ferrocarril, agua, luz eléctrica, hospital, proveeduría), el monte completamente deforestado y una tierra totalmente infértil, desplazando una vez más a los habitantes.</flowPara></flowRoot>  </g>
+         id="flowPara4232">La Forestal fue una empresa extranjera que de forma brutal y con un sistema perverso explotó a nuestras tierras, recursos económicos, naturales y humanos.</flowPara><flowPara
+         id="flowPara4236"></flowPara><flowPara
+         id="flowPara4238">¿Conocés ejemplos actuales de explotación? ¿Son muy distintos a éste? ¿Qué harías para detenerlos?</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
