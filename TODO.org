@@ -6,7 +6,7 @@
 ** DONE boceto página 1
 ** DONE boceto página 2
 ** DONE boceto página 3
-** TODO boceto página 4
+** DONE boceto página 4
 ** TODO boceto página 5
 ** TODO boceto página 6
 ** TODO boceto página 7
@@ -15,16 +15,16 @@
 ** DONE líneas página 1
 ** DONE líneas página 2
 ** DONE líneas página 3
-** TODO líneas página 4
+** DONE líneas página 4
 ** TODO líneas página 5
 ** TODO líneas página 6
 ** TODO líneas página 7
 ** TODO líneas página 8
 * TODO texto
 ** DONE texto página 1
-** TODO texto página 2
-** TODO texto página 3
-** TODO texto página 4
+** DONE texto página 2
+** DONE texto página 3
+** DONE texto página 4
 ** TODO texto página 5
 ** TODO texto página 6
 ** TODO texto página 7
