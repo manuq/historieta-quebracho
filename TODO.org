@@ -16,10 +16,10 @@
 ** DONE líneas página 2
 ** DONE líneas página 3
 ** DONE líneas página 4
-** TODO líneas página 5
+** DONE líneas página 5
 ** TODO líneas página 6
-** TODO líneas página 7
-** TODO líneas página 8
+** DONE líneas página 7
+** DONE líneas página 8
 * DONE texto
 ** DONE texto página 1
 ** DONE texto página 2
@@ -29,3 +29,4 @@
 ** DONE texto página 6
 ** DONE texto página 7
 ** DONE texto página 8
+* TODO tapa
